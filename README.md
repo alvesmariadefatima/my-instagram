@@ -1,6 +1,10 @@
 # <p align="center">My Instagram</p>
 
+# ✳️ Meu Perfil
 <img src="home-profile.png" alt="Página do meu perfil no Instagram">
+
+# ✳️ Feed do meu perfil
+<img src="home-profile2.png" alt="Página do meu perfil no Instagram">
 
 <p align="center">Clone do meu perfil pessoal do Instagram desenvolvido com as seguintes tecnologias:
 
