@@ -1,5 +1,7 @@
 # <p align="center">My Instagram</p>
 
+<img src="home-profile.png" alt="Página do meu perfil no Instagram">
+
 <p align="center">Clone do meu perfil pessoal do Instagram desenvolvido com as seguintes tecnologias:
 
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
